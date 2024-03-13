@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=)
 
-<br/><br/>
-
-
 
 <div align = "center">
 
